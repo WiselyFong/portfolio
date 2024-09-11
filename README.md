@@ -1,24 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rue Ning
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wesley
 ================================================================================================================================
 
-Lead Data Scientist/ Tech Lead
-------------------------------
+Data Analyst | Business Intelligence 
+------------------------------------
 
-I am a graduate with a double major of Mathematics and Statistics and Economics with over 9 years of Data Science experience spanning across prestigious organizations like GXBank, Ernst & Young Consulting, iForte Intelligence (Huawei), and Celcom Mobile, I have honed my expertise in data analytics and data science. I have also graduated from ASEAN Data Analytics eXchange which is one of a prestigious training for highly skilled Data Scientists initiated by Malaysia Digital Economy Corporation (MDEC) Sdn Bhd.
+I am a graduate with a major of Computer Science with over 1 years of Data Science experience spanning across prestigious organizations like GXBank, Ernst & Young Consulting, iForte Intelligence (Huawei), and Celcom Mobile, I have honed my expertise in data analytics and data science. I have also graduated from ASEAN Data Analytics eXchange which is one of a prestigious training for highly skilled Data Scientists initiated by Malaysia Digital Economy Corporation (MDEC) Sdn Bhd.
 
-At **GXBank**, I led the charge in developing dynamic dashboards and generating actionable insights, resulting in substantial reductions in loading times and empowering more informed decision-making processes for C-level executives.
-
-In my role at **Ernst & Young Consulting**, I led a team of data scientists and engineers in spearheading advanced analytics initiatives for a prominent water utility company. This encompassed developing end-to-end machine learning models for various applications, including demand forecasting and asset optimization, utilizing **Azure Databricks** and **Azure Machine Learning** Platform. I facilitated weekly progress reviews, conducted workshops, and presented findings to stakeholders, driving understanding and adoption of data science solutions. Noteworthy achievements include deploying impactful models, receiving client recognition for dashboard design, and delivering operational business intelligence dashboards to C-level executives.
-
-With my tenure at **iForte Intelligence (Huawei)**, I led LTE forecast projects across multiple countries, employing advanced LSTM models for top operators. I conducted extensive time-series analysis, identifying congestion sites preemptively with machine learning techniques. Additionally, I developed intuitive dashboards and forecast tools, significantly reducing forecasting time. Achievements include improving forecast precision for PLDT, presenting innovative algorithms at industry summits, and successfully onboarding clients to long-term forecast services.
-
-Additionally, my work at **Celcom Mobile** focused on churn prediction and customer segmentation. 
+At **Lenovo**, I led the charge in developing dynamic dashboards and generating actionable insights, resulting in substantial reductions in loading times and empowering more informed decision-making processes for C-level executives.
 
 I also contributed to academic research at the **University Science Malaysia**.
 
-* 🚀  My published **research paper** can be found [here](http://aip.scitation.org/doi/abs/10.1063/1.4954606)
+* 🚀  My published **research paper** can be found [here](https://myfuturejobs.gov.my/)
 * 🌍  I'm based in Kuala Lumpur, Malaysia
-* ✉️  You can contact me at [ning.low@gmail.com](mailto:ning.low@gmail.com)
+* ✉️  You can contact me at [weihao2425@gmail.com](mailto:weihao2425@gmail.com)
 
 ### Skills
 
@@ -26,27 +20,21 @@ I also contributed to academic research at the **University Science Malaysia**.
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
 
-# Data Scientist
+# Data Analyst
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education		        		
+- B.S., Data Science | Tunku Abdul Rahman University of Management and Technology (_Aug 2024_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Analyst @ Lenovo Malaysia (_Feb 2024 - Present_)**
+- turn data to insight by using power bi toos in order allow stakeholder perform decision making.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Example of my project
+[Publication](https://myfuturejobs.gov.my/)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
